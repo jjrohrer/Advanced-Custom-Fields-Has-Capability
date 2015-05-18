@@ -15,3 +15,7 @@ Known Issues:
 =============
 
 ( ) You can insert this field more than once.  The behavior is undefined.
+
+Misc.
+-----
+ * ETAC is an internal project code name. Elegant Technologies, App Chase. 
