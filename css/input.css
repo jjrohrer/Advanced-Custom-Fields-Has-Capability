@@ -1,0 +1,23 @@
+.field_type-ETAC_has_capability .etac_caps{
+    height: 300px !important;
+}
+.field_type-ETAC_has_capability .field_instructions,
+.field_type-ETAC_has_capability .required,
+.field_type-ETAC_has_capability .conditional-logic{
+    display: none !important;
+}
+
+.acf-field-object-ETAC-has-capability .etac_caps,
+.acf-field-object-ETAC-has_capability .etac_caps{
+    height: 300px !important;
+}
+.acf-field-object-ETAC-has-capability tr[data-name="wrapper"],
+.acf-field-object-ETAC-has_capability tr[data-name="wrapper"],
+.acf-field-object-ETAC-has-capability tr[data-name="conditional_logic"],
+.acf-field-object-ETAC-has_capability tr[data-name="conditional_logic"],
+.acf-field-object-ETAC-has-capability tr[data-name="instructions"],
+.acf-field-object-ETAC-has_capability tr[data-name="instructions"],
+.acf-field-object-ETAC-has-capability tr[data-name="required"],
+.acf-field-object-ETAC-has_capability tr[data-name="required"]{
+    display: none !important;
+}
